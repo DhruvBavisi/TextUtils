@@ -68,12 +68,3 @@ npm run preview
 - [ESLint](https://eslint.org/) – Linting (optional)
 - [Tailwind CSS](https://tailwindcss.com/) – Styling (if used)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-Your Name - [Your GitHub](https://github.com/yourgithub)
-
-## Contributing
-Contributions are welcome! Feel free to open issues and submit pull requests.
-
